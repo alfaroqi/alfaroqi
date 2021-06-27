@@ -11,7 +11,7 @@
 
 <img align='right' src="https://media3.giphy.com/media/LmNwrBhejkK9EFP504/200w.gif?cid=82a1493bhee42c3puoi1vmeyqo3ph1y3ifsq0dqe3vxkto0m&rid=200w.gif&ct=g" width="230" />
 
-- 😊 I love programming languages especially [Python](https://www.python.org/),I’m currently learning [Javascripts](https://www.javascript.com/), and [css](https://css-tricks.com/) and more
+- 😊 I love programming languages especially [Python](https://www.python.org/),I’m currently learning [Javascripts](https://www.javascript.com/), [css](https://css-tricks.com/) and more
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
