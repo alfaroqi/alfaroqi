@@ -5,7 +5,7 @@
 
 &nbsp; [![GitHub](https://img.shields.io/github/followers/alfaroqi?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)](https://github.com/alfaroqi?tab=followers)
 &nbsp; [![Twitter Badge](https://img.shields.io/badge/-Twitter-e4405f?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Haikii6)
-<p align=left> <img src=https://komarev.com/ghpvc/?username=rajk3770 alt=rajk3770 /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=alfaroqi alt=alfaroqi /> </p>
 
 </div>
 
