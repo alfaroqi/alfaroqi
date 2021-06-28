@@ -1,6 +1,6 @@
 <div align='center'>
 
-## Hii, My name is alfaroqi
+## Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 &nbsp; [![GitHub](https://img.shields.io/github/followers/alfaroqi?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)](https://github.com/alfaroqi?tab=followers)
