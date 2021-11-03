@@ -9,7 +9,7 @@
 
 </div>
 
-<img align='right' src="https://media3.giphy.com/media/LmNwrBhejkK9EFP504/200w.gif?cid=82a1493bhee42c3puoi1vmeyqo3ph1y3ifsq0dqe3vxkto0m&rid=200w.gif&ct=g" width="230" />
+<img align='right' src="https://i.gifer.com/origin/d5/d5b9ae79f5254caaf0fdcf2affcec5b0_w200.gif" width="230" />
 
 😊 I love programming languages especially [Python](https://www.python.org/),I’m currently learning [Javascripts](https://www.javascript.com/), [css](https://css-tricks.com/) and more
 
