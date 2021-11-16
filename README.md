@@ -1,17 +1,20 @@
+![My card name](https://cardivo.vercel.app/api?name=Alfaroqi&description=Hi,%20i%27m%20a%20Junior%20Back%20End%20developer%20and%20i%27m%2320%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/54241460?v=4&backgroundColor=%23d0baba&instagram=alfaroqi&linkedin=Muhammad%20Khutub%20Alfaroqi&github=alfaroqi&pattern=wiggle&colorPattern=%23eaeaea)
 <div align='center'>
-
-## Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 &nbsp; [![GitHub](https://img.shields.io/github/followers/alfaroqi?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)](https://github.com/alfaroqi?tab=followers)
 &nbsp; [![Twitter Badge](https://img.shields.io/badge/-Twitter-e4405f?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Haikii6)
 <p align=left> <img src=https://komarev.com/ghpvc/?username=alfaroqi alt=alfaroqi /> </p>
-
+	
 </div>
+<h3> 👨🏻‍💻 About Me </h3>
 
-<img align='right' src="https://i.gifer.com/origin/d5/d5b9ae79f5254caaf0fdcf2affcec5b0_w200.gif" width="230" />
+- :heart:&nbsp; My favorite language: Python and Javascript
+- 🔭 &nbsp; I’m focus on Back-end Application
+- 🌱 &nbsp; I’m currently learning: computer programming and Mathematics
+- 🎓 &nbsp; Computer systems major
 
-😊 I love programming languages especially [Python](https://www.python.org/),I’m currently learning [Javascripts](https://www.javascript.com/), [css](https://css-tricks.com/) and more
+<br/>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
