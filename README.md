@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=Alfaroqi&description=Hi,%20i%27m%20a%20Junior%20Back%20End%20developer%20and%20i%27m%2023%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/54241460?v=4&backgroundColor=%23d0baba&instagram=alfaroqi&linkedin=Muhammad%20Khutub%20Alfaroqi&github=alfaroqi&pattern=wiggle&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Alfaroqi&description=Hi,%20i%27m%20a%20Junior%20Back%20End%20developer%20and%20i%27m%2023%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/54241460?v=4&backgroundColor=%23fbfbfb&instagram=alfaroqi&linkedin=Muhammad%20Khutub%20Alfaroqi&github=alfaroqi&pattern=floatingCogs&colorPattern=%23eaeaea)
 <div align='center'>
 
 
