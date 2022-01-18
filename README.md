@@ -10,7 +10,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - :heart:&nbsp; My favorite language: Python and Javascript
-- 🔭 &nbsp; I’m focus on Back-ehttps://github-readme-stats.vercel.app/api?username=alfaroqi&show_icons=true&hide_border=true&theme=cobaltnd Application
+- 🔭 &nbsp; I’m focus on Back-end Application
 - 🌱 &nbsp; I’m currently learning: computer programming and Mathematics
 - 🎓 &nbsp; Computer systems major
 
