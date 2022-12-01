@@ -1,11 +1,5 @@
 
-<h3> About me </h3>
-
-- :heart:&nbsp; My favorite language: Python and Javascript
-- 🔭 &nbsp; I’m focus on Back-end Application
-- 🌱 &nbsp; I’m currently learning: Java, Go and Mathematics
-- 🎓 &nbsp; Computer systems major
-
+<h3> Hello word </h3>
 
 
 	
